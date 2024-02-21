@@ -1,0 +1,38 @@
+/* Josh Buitenhuis - 7350945 */
+
+html {font: 1.2rem "Comic Sans", sans-serif;}
+
+h1, h2 {font-variant: small-caps; color: plum}
+
+figcaption {font-weight: bold; font-variant: small-caps; font-size: 1rem;}
+
+q {font-size: 1rem; font-family: cursive; font-style: italic;}
+
+footer p {font-size: 1rem;}
+
+body {width: 75%; max-width: 1000px; padding: 1rem;}
+
+/* Couldn't get my images to center*/
+.main-section-figure img {height: 20em; width: 18em; padding: 2rem; border-radius: 10%; align-items: center;}
+
+.main-section-figure {height: 20em; width: 20em; padding: 2rem; margin-top: 1rem; margin-bottom: 1rem; align-items: center;}
+
+iframe {height: 20em;width: 30em;padding: 1rem; border: 1em solid rgb(17, 190, 26); border-radius: 10%;}
+
+header, footer {text-align: center; border: 1rem solid #004384; background-color: rgb(82, 44, 60);}
+
+main {text-align: center; padding: 1rem; background-color: hsla(42, 10%, 75%, 0.6);}
+
+#bio {text-align: left; }
+
+#quote {padding: 1rem; border: rgb(12, 32, 86); box-shadow: 1em 1em 1em olive;}
+
+#relative-path-image {border: 1rem solid rgb(rgb(58, 39, 39), rgb(71, 75, 71), rgb(7, 7, 17)); border-radius: 10%; background-color: hsla(42, 10%, 75%, 0.6);}
+
+#absolute-path-image {border: 1rem solid rgb(rgb(165, 95, 95), rgb(136, 172, 136), rgb(12, 12, 68)); border-radius: 10%; background-color: hsla(42, 10%, 75%, 0.6);}
+
+#relative-path-image figcaption {color: rgb(17, 104, 104);}
+
+#absolute-path-image figcaption {color: rgb(17, 24, 11);}
+
+
